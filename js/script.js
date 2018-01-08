@@ -1,3 +1,4 @@
+// Written by Hauke Grothues //
 $(document).ready(function () {
   $(".search").focus();
 
